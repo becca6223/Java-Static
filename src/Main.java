@@ -4,6 +4,6 @@ public class Main {
         for(int i = 0; i < 4; i++) {
             Person person = new Person();
             System.out.println("local count: " + person.localCount + " total count: " + Person.instanceCount);
-        } //testing 2
+        } //testing 3
     }
 }
